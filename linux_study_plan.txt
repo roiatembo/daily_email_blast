@@ -1,0 +1,277 @@
+Your study plan consists of approximately 15 minutes for 37 days
+
+Day 1
+Friday 04 November 2022
+Todays study videos consists of approximately 15 minutes
+001 Intro to The Linux Files System.mp4
+002 The Filesystem Hierarchy Standard (FHS).mp4
+
+Day 2
+Saturday 05 November 2022
+Todays study videos consists of approximately 18 minutes
+003 Absolute vs. Relative Paths. Walking through the File System (pwd, cd, tree).mp4
+005 The LS Command In Depth (ls).mp4
+007 Understanding File Timestamps atime, mtime, ctime (stat, touch, date).mp4
+
+Day 3
+Monday 07 November 2022
+Todays study videos consists of approximately 15 minutes
+008 Sorting Files by Timestamp.mp4
+009 File Types in Linux (ls -F, file).mp4
+011 Viewing Files - Part 1 (cat).mp4
+012 Viewing Files - Part 2 (less).mp4
+
+Day 4
+Tuesday 08 November 2022
+Todays study videos consists of approximately 23 minutes
+015 Creating Files and Directories (touch, mkdir).mp4
+016 Copying Files and Directories (cp).mp4
+017 Moving and Renaming Files and Directories (mv).mp4
+018 Removing Files and Directories (rm, shred).mp4
+
+Day 5
+Thursday 10 November 2022
+Todays study videos consists of approximately 24 minutes
+020 Working With Pipes in Linux (, wc).mp4
+021 Command Redirection (, , 2 &, cut, tee).mp4
+023 Finding Files and Directories - Part 1 (locate, which).mp4
+
+Day 6
+Friday 11 November 2022
+Todays study videos consists of approximately 16 minutes
+026 Find and Exec.mp4
+027 Searching for String Patterns in Text Files (grep).mp4
+029 Searching for Strings in Binary Files (strings).mp4
+
+Day 7
+Saturday 12 November 2022
+Todays study videos consists of approximately 17 minutes
+030 Comparing Files (cmp, diff, sha256).mp4
+031 The Basics of VIM Text Editor.mp4
+032 The VIM Editor In Depth - Part 1.mp4
+
+Day 8
+Monday 14 November 2022
+Todays study videos consists of approximately 23 minutes
+033 The VIM Editor In Depth - Part 2.mp4
+035 Compressing and Archiving Files and Directories (tar, gzip).mp4
+036 Hard Links and the Inode Structure.mp4
+
+Day 9
+Tuesday 15 November 2022
+Todays study videos consists of approximately 19 minutes
+001 Understanding passwd and shadow files.mp4
+002 Understanding Linux Groups (groups, id).mp4
+003 Creating User Accounts (useradd).mp4
+004 Changing and Removing User Accounts (usermod, userdel).mp4
+
+Day 10
+Thursday 17 November 2022
+Todays study videos consists of approximately 18 minutes
+005 Creating Admin Users.mp4
+006 Group Management (groupadd, groupdel, groupmod).mp4
+007 User Account Monitoring (whoami, who am i, who, id, w, uptime, last).mp4
+001 Understanding File Permissions.mp4
+
+Day 11
+Friday 18 November 2022
+Todays study videos consists of approximately 17 minutes
+003 Changing File Permissions (chmod).mp4
+004 The Effect of Permissions on Directories.mp4
+005 Combining Find and Chmod Commands Together.mp4
+006 Changing File Ownership (chown, chgrp).mp4
+
+Day 12
+Saturday 19 November 2022
+Todays study videos consists of approximately 16 minutes
+007 Understanding SUID (Set User ID).mp4
+008 Understanding SGID (Set Group ID).mp4
+009 Understanding the Sticky Bit.mp4
+010 Umask.mp4
+
+Day 13
+Monday 21 November 2022
+Todays study videos consists of approximately 21 minutes
+011 Understanding Files Attributes (lsattr, chattr).mp4
+001 Processes and The Linux Security Model.mp4
+002 Listing Processes (ps, pstree).mp4
+
+Day 14
+Tuesday 22 November 2022
+Todays study videos consists of approximately 19 minutes
+006 Signals and Killing Processes (kill, pkill, killall, pidof).mp4
+007 Foreground and Background Processes.mp4
+008 Job Control (jobs, fg, bg).mp4
+001 Getting Information about the Network Interfaces (ip, ifconfig).mp4
+
+Day 15
+Thursday 24 November 2022
+Todays study videos consists of approximately 17 minutes
+002 Configuring the Network On The Fly (ifconfig, ip, route).mp4
+004 Setting Up Static IP on Ubuntu (netplan).mp4
+006 Testing and Troubleshooting Network Connectivity.mp4
+
+Day 16
+Friday 25 November 2022
+Todays study videos consists of approximately 23 minutes
+008 Troubleshooting SSH.mp4
+009 Securing the OpenSSH Server (sshd).mp4
+011 Copying Files Over the Network (scp).mp4
+
+Day 17
+Saturday 26 November 2022
+Todays study videos consists of approximately 16 minutes
+012 Synchronizing Files and Directories using rsync.mp4
+013 Using rsync Over the Network.mp4
+015 Using wget.mp4
+
+Day 18
+Monday 28 November 2022
+Todays study videos consists of approximately 23 minutes
+016 Checking for Listening Ports (netstat, ss, lsof, telnet, nmap).mp4
+001 DPKG (Debian and Ubuntu Based Distros).mp4
+002 Intro to APT.mp4
+003 Using APT (Advanced Package Tool).mp4
+
+Day 19
+Tuesday 29 November 2022
+Todays study videos consists of approximately 15 minutes
+006 Compiling C Programs.mp4
+007 Compiling Software From Source Code Lab ProFTPD.mp4
+
+Day 20
+Thursday 01 December 2022
+Todays study videos consists of approximately 17 minutes
+001 Task Automation and Scheduling Using Cron (crontab).mp4
+003 Scheduling Tasks Using Anacron (anacron).mp4
+004 Mounting and Unmounting File Systems (df, mount, umount, fdisk, gparted).mp4
+
+Day 21
+Friday 02 December 2022
+Todays study videos consists of approximately 21 minutes
+006 Getting System Hardware Information (lwhw, lscpu, lsusb, lspci,dmidecode,hdparm).mp4
+008 Intro to systemd.mp4
+009 Service Management (systemd and systemctl).mp4
+001 Overview The Big Picture.mp4
+002 Running a Linux Server in the Cloud.mp4
+
+Day 22
+Saturday 03 December 2022
+Todays study videos consists of approximately 23 minutes
+003 Securing SSH with Key Authentication.mp4
+004 Getting a Domain Name.mp4
+005 Diving into the DNS Protocol and Installing a DNS Server (Bind9).mp4
+
+Day 23
+Monday 05 December 2022
+Todays study videos consists of approximately 23 minutes
+006 Setting Up the Authoritative BIND9 DNS Server.mp4
+007 Installing a Web Server (Apache2).mp4
+008 Setting Up Virtual Hosting.mp4
+009 Securing Apache with OpenSSL and Digital Certificates.mp4
+
+Day 24
+Tuesday 06 December 2022
+Todays study videos consists of approximately 21 minutes
+011 Installing and Securing the MySql Server.mp4
+012 Installing a Web Application (WordPress).mp4
+013 Securing WordPress.mp4
+001 Bash Aliases.mp4
+
+Day 25
+Thursday 08 December 2022
+Todays study videos consists of approximately 20 minutes
+003 Intro to Bash Shell Scripting.mp4
+004 The Bash Shebang and Comments.mp4
+005 Running Scripts.mp4
+006 Variables in Bash.mp4
+
+Day 26
+Friday 09 December 2022
+Todays study videos consists of approximately 17 minutes
+008 Getting User Input.mp4
+009 Special Variables and Positional Arguments.mp4
+011 If, Elif and Else Statements.mp4
+
+Day 27
+Saturday 10 December 2022
+Todays study videos consists of approximately 21 minutes
+012 Testing Conditions For Numbers.mp4
+013 Multiple Conditions and Nested If Statements.mp4
+014 Command Substitution.mp4
+015 Comparing Strings in If Statements.mp4
+
+Day 28
+Monday 12 December 2022
+Todays study videos consists of approximately 22 minutes
+016 Lab Testing Network Connections.mp4
+018 For Loops.mp4
+019 Lab Dropping a List of IP addresses Using a For Loop.mp4
+020 While Loops.mp4
+
+Day 29
+Tuesday 13 December 2022
+Todays study videos consists of approximately 18 minutes
+022 Functions in Bash.mp4
+023 Variable Scope in Functions.mp4
+024 Menus in Bash. The Select Statement.mp4
+025 Lab System Administration Script using Menus.mp4
+
+Day 30
+Thursday 15 December 2022
+Todays study videos consists of approximately 16 minutes
+026 Running a DoS Attack Without root Access (ulimit).mp4
+001 Scanning Networks with Nmap.mp4
+002 ARP Scanning (arp-scan and netdiscover).mp4
+
+Day 31
+Friday 16 December 2022
+Todays study videos consists of approximately 18 minutes
+004 Using Wireshark for Packet Sniffing and Analyzing.mp4
+005 Capture Traffic Using tcpdump.mp4
+001 What is IPFS and How It Works.mp4
+
+Day 32
+Saturday 17 December 2022
+Todays study videos consists of approximately 15 minutes
+002 Installing IPFS on Linux.mp4
+003 Running an IPFS Node on Linux.mp4
+004 Pinning Objects.mp4
+001 Introduction to Netfilter and Iptables.mp4
+002 Chain Traversal in a Nutshell.mp4
+
+Day 33
+Monday 19 December 2022
+Todays study videos consists of approximately 25 minutes
+003 Iptables Basic Usage.mp4
+004 Iptables Options (Flags) - Part 1.mp4
+005 Iptables Options (Flags) - Part 2.mp4
+006 Where Do We Write Iptables Rules.mp4
+
+Day 34
+Tuesday 20 December 2022
+Todays study videos consists of approximately 24 minutes
+008 Deleting the Firewall.mp4
+009 Filter by IP Address.mp4
+010 Filter by Port.mp4
+
+Day 35
+Thursday 22 December 2022
+Todays study videos consists of approximately 15 minutes
+011 Intro to Stateful Firewalls (Connection Tracking).mp4
+012 Implementing Stateful Firewalls with Iptables.mp4
+013 Filter by MAC Address.mp4
+
+Day 36
+Friday 23 December 2022
+Todays study videos consists of approximately 15 minutes
+015 The ACCEPT and DROP Targets.mp4
+016 The LOG Target.mp4
+001 SSH Public Key Authentication Overview.mp4
+002 Generating SSH Key Pair on Windows.mp4
+
+Day 37
+Friday 23 December 2022
+Todays study videos consists of approximately 11 minutes
+004 Generating SSH Key Pair on Linux.mp4
+005 Configuring SSH Public Key Authentication on Linux.mp4

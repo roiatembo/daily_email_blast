@@ -1,0 +1,369 @@
+Your study plan consists of approximately 47 minutes for 36 days
+
+Day 1
+Monday 07 November 2022
+Todays study videos consists of approximately 49 minutes
+001 Why Do We Need APIs_.mp4
+002 API Endpoints, Paths and Parameters.mp4
+003 API Authentication and Postman.mp4
+004 What is JSON_.mp4
+005 Making GET Requests with the Node HTTPS Module.mp4
+
+Day 2
+Tuesday 08 November 2022
+Todays study videos consists of approximately 60 minutes
+006 How to Parse JSON.mp4
+007 Using Express to Render a Website with Live API Data.mp4
+008 Using Body Parser to Parse POST Requests to the Server.mp4
+009 The Mailchimp API - What You'll Make.mp4
+010 Setting Up the Sign Up Page.mp4
+011 Posting Data to Mailchimp's Servers via their API.mp4
+
+Day 3
+Wednesday 09 November 2022
+Todays study videos consists of approximately 49 minutes
+012 Adding Success and Failure Pages.mp4
+013 Deploying Your Server with Heroku.mp4
+014 Tip from Angela - Location, Location, Location!.mp4
+001 Introduction to Version Control and Git.mp4
+002 Version Control Using Git and the Command Line.mp4
+003 GitHub and Remote Repositories.mp4
+
+Day 4
+Thursday 10 November 2022
+Todays study videos consists of approximately 59 minutes
+005 Gitignore.mp4
+006 Cloning.mp4
+007 Branching and Merging.mp4
+009 Forking and Pull Requests.mp4
+010 Tip from Angela - Spaced Repetition.mp4
+001 What We'll Make_ A ToDoList.mp4
+003 Templates_ Why Do We Need Templates_.mp4
+
+Day 5
+Friday 11 November 2022
+Todays study videos consists of approximately 56 minutes
+004 Creating Your First EJS Templates.mp4
+005 Running Code Inside the EJS Template.mp4
+006 Passing Data from Your Webpage to Your Server.mp4
+007 The Concept of Scope in the Context of Javascript.mp4
+008 Adding Pre-Made CSS Stylesheets to Your Website.mp4
+
+Day 6
+Saturday 12 November 2022
+Todays study videos consists of approximately 48 minutes
+009 Understanding Templating vs. Layouts.mp4
+010 Understanding Node Module Exports_ How to Pass Functions and Data between Files.mp4
+011 Tip from Angela - Use Accountability in your Favour.mp4
+001 A New Challenge Format and What We'll Make_ A Blog.mp4
+002 Setting Up the Blog Project.mp4
+003 Challenge 1.mp4
+004 Challenge 1 Solution.mp4
+005 Challenge 2.mp4
+
+Day 7
+Monday 14 November 2022
+Todays study videos consists of approximately 49 minutes
+006 Challenge 2 Solution.mp4
+007 Challenge 3.mp4
+008 Challenge 3 Solution.mp4
+009 Challenge 4.mp4
+010 Challenge 4 Solution.mp4
+011 Challenge 5.mp4
+012 Challenge 5 Solution.mp4
+013 Challenge 6.mp4
+014 Challenge 6 Solution.mp4
+015 Challenge 7.mp4
+016 Challenge 7 Solution.mp4
+017 Challenge 8.mp4
+018 Challenge 8 Solution.mp4
+019 Challenge 9.mp4
+020 Challenge 9 Solution.mp4
+021 Challenge 10.mp4
+022 Challenge 10 Solution.mp4
+023 Challenge 11.mp4
+
+Day 8
+Tuesday 15 November 2022
+Todays study videos consists of approximately 48 minutes
+025 Challenge 12.mp4
+026 Challenge 12 Solution.mp4
+027 Challenge 13.mp4
+028 Challenge 13 Solution.mp4
+029 Challenge 14 and Solution.mp4
+030 Challenge 15.mp4
+031 Challenge 15 Solution.mp4
+032 Express Routing Parameters.mp4
+033 Challenge 16.mp4
+034 Challenge 16 Solution.mp4
+035 Challenge 17.mp4
+037 Challenge 18.mp4
+038 Challenge 18 Solution.mp4
+039 Challenge 19.mp4
+
+Day 9
+Wednesday 16 November 2022
+Todays study videos consists of approximately 48 minutes
+040 Challenge 19 Solution.mp4
+041 Challenge 20.mp4
+042 Challenge 20 Solution.mp4
+043 Challenge 21.mp4
+045 Tip from Angela - When Life Gives You Lemons.mp4
+001 Databases Explained_ SQL vs. NOSQL.mp4
+001 SQL Commands_ CREATE Table and INSERT Data.mp4
+
+Day 10
+Thursday 17 November 2022
+Todays study videos consists of approximately 51 minutes
+002 SQL Commands_ READ, SELECT, and WHERE.mp4
+003 Updating Single Values and Adding Columns in SQL.mp4
+004 SQL Commands_ DELETE.mp4
+005 Understanding SQL Relationships, Foreign Keys and Inner Joins.mp4
+006 Tip from Angela - Find All the Hard Working People.mp4
+001 Installing MongoDB on Mac.mp4
+002 Installing MongoDB on Windows.mp4
+003 MongoDB CRUD Operations in the Shell_ Create.mp4
+
+Day 11
+Friday 18 November 2022
+Todays study videos consists of approximately 54 minutes
+004 MongoDB CRUD Operations in the Shell_ Reading & Queries.mp4
+005 MongoDB CRUD Operations in the Shell_ Update.mp4
+006 MongoDB CRUD Operations in the Shell_ Delete.mp4
+007 Relationships in MongoDB.mp4
+008 Working with The Native MongoDB Driver.mp4
+010 Tip from Angela - Daily Routines.mp4
+001 Introduction to Mongoose.mp4
+
+Day 12
+Saturday 19 November 2022
+Todays study videos consists of approximately 58 minutes
+002 Reading from Your Database with Mongoose.mp4
+003 Data Validation with Mongoose.mp4
+004 Updating and Deleting Data Using Mongoose.mp4
+005 Establishing Relationships and Embedding Documents using Mongoose.mp4
+006 Tip from Angela - Deep Work.mp4
+001 Let's take the ToDoList Project to the Next Level and Connect it with Mongoose.mp4
+002 Rendering Database Items in the ToDoList App.mp4
+
+Day 13
+Monday 21 November 2022
+Todays study videos consists of approximately 56 minutes
+003 Adding New Items to our ToDoList Database.mp4
+004 Deleting Items from our ToDoList Database.mp4
+005 Creating Custom Lists using Express Route Parameters.mp4
+006 Adding New Items to the Custom ToDo Lists.mp4
+007 Revisiting Lodash and Deleting Items from Custom ToDo Lists.mp4
+
+Day 14
+Tuesday 22 November 2022
+Todays study videos consists of approximately 53 minutes
+001 How to Deploy Web Apps with a Database.mp4
+002 How to Setup MongoDB Atlas.mp4
+003 Deploying an App with a Database to Heroku.mp4
+004 Tip from Angela - Discipline Breeds Discipline.mp4
+001 Challenge_ Give your Blog a Database.mp4
+008 Tip from Angela - Dealing with Limitations.mp4
+001 What is REST_.mp4
+
+Day 15
+Wednesday 23 November 2022
+Todays study videos consists of approximately 55 minutes
+002 Creating a Database with Robo 3T.mp4
+003 Set Up Server Challenge.mp4
+004 Set Up Server Solution.mp4
+005 GET All Articles.mp4
+006 POST a New Article.mp4
+007 DELTE All Articles.mp4
+008 Chained Route Handlers Using Express.mp4
+009 GET a Specific Article.mp4
+
+Day 16
+Thursday 24 November 2022
+Todays study videos consists of approximately 53 minutes
+010 PUT a Specific Article.mp4
+011 PATCH a Specific Article.mp4
+014 Tip from Angela - How to Get a Job as Programmer.mp4
+001 Introduction to Authentication.mp4
+002 Getting Set Up.mp4
+003 Level 1 - Register Users with Username and Password.mp4
+005 Level 2 - Database Encryption.mp4
+
+Day 17
+Friday 25 November 2022
+Todays study videos consists of approximately 48 minutes
+006 Using Environment Variables to Keep Secrets Safe.mp4
+007 Level 3 - Hashing Passwords.mp4
+008 Hacking 101 ☣️.mp4
+009 Level 4 - Salting and Hashing Passwords with bcrypt.mp4
+
+Day 18
+Saturday 26 November 2022
+Todays study videos consists of approximately 77 minutes
+010 What are Cookies and Sessions_.mp4
+011 Using Passport.js to Add Cookies and Sessions.mp4
+012 Level 6 - OAuth 2.0 & How to Implement Sign In with Google.mp4
+
+Day 19
+Monday 28 November 2022
+Todays study videos consists of approximately 51 minutes
+013 Finishing Up the App - Letting Users Submit Secrets.mp4
+015 Tip from Angela - How to Work as a Freelancer.mp4
+001 What is React_.mp4
+002 What we will make in this React module.mp4
+003 Introduction to Code Sandbox and the Structure of the Module.mp4
+004 Introduction to JSX and Babel.mp4
+005 JSX Code Practice.mp4
+006 Javascript Expressions in JSX & ES6 Template Literals.mp4
+
+Day 20
+Tuesday 29 November 2022
+Todays study videos consists of approximately 50 minutes
+008 JSX Attributes & Styling React Elements.mp4
+009 Inline Styling for React Elements.mp4
+010 React Styling Practice.mp4
+011 React Components.mp4
+012 React Components Practice.mp4
+013 Javascript ES6 - Import, Export and Modules.mp4
+
+Day 21
+Wednesday 30 November 2022
+Todays study videos consists of approximately 63 minutes
+014 Javascript ES6 Import, Export and Modules Practice.mp4
+015 [Windows]​ Local Environment Setup for React Development.mp4
+016 [Mac] Local Environment Setup for React Development​.mp4
+018 Keeper App Project - Part 1 Challenge.mp4
+019 Keeper App Part 1 Solution.mp4
+020 React Props.mp4
+
+Day 22
+Thursday 01 December 2022
+Todays study videos consists of approximately 65 minutes
+021 React Props Practice.mp4
+022 React DevTools.mp4
+023 Mapping Data to Components.mp4
+024 Mapping Data to Components​ Practice.mp4
+025 Javascript ES6 Map_Filter_Reduce.mp4
+
+Day 23
+Friday 02 December 2022
+Todays study videos consists of approximately 64 minutes
+026 Javascript ES6 Arrow functions.mp4
+027 Keeper App Project - Part 2.mp4
+028 React Conditional Rendering with the Ternary Operator & AND Operator.mp4
+029 Conditional Rendering Practice.mp4
+030 State in React - Declarative vs. Imperative Programming.mp4
+031 React Hooks - useState.mp4
+
+Day 24
+Saturday 03 December 2022
+Todays study videos consists of approximately 48 minutes
+032 useState Hook Practice.mp4
+033 Javascript ES6 Object & Array Destructuring.mp4
+034 Javascript ​ES6 Destructuring Challenge Solution.mp4
+035 Event Handling in React.mp4
+036 React Forms.mp4
+
+Day 25
+Monday 05 December 2022
+Todays study videos consists of approximately 50 minutes
+037 Class Components vs. Functional Components.mp4
+038 Changing Complex State.mp4
+039 Changing Complex State Practice.mp4
+040 Javascript ES6 Spread Operator.mp4
+041 Javascript ES6 Spread Operator Practice.mp4
+
+Day 26
+Tuesday 06 December 2022
+Todays study videos consists of approximately 51 minutes
+043 Managing a Component Tree Practice.mp4
+044 Keeper App Project - Part 3.mp4
+045 React Dependencies & Styling the Keeper App.mp4
+046 Tip from Angela - How to Build Your Own Product.mp4
+001 What is Web3_.mp4
+
+Day 27
+Wednesday 07 December 2022
+Todays study videos consists of approximately 53 minutes
+002 How does the Blockchain actually work_.mp4
+003 What are DApps (Decentralised Apps) and how do you develop them_.mp4
+004 What is the Internet Computer (ICP)_.mp4
+006 [Mac Users] Installation and Setup for Web3 Development.mp4
+007 [Windows Users] Installation and Setup for Web3 Development.mp4
+001 What You'll Build - DBANK (Inspired by Compound).mp4
+002 Introduction to the Motoko Language.mp4
+
+Day 28
+Thursday 08 December 2022
+Todays study videos consists of approximately 74 minutes
+003 Motoko Functions and the Candid User Interface.mp4
+004 Motoko Conditionals and Type Annotations.mp4
+005 Query vs. Update Methods.mp4
+006 Orthogonal Persistance.mp4
+007 Tracking Time and Calculating Compound Interest.mp4
+008 Adding HTML and CSS to Create the Frontend for DBANK.mp4
+009 Connecting the Motoko Backend to our JS Frontend.mp4
+
+Day 29
+Friday 09 December 2022
+Todays study videos consists of approximately 49 minutes
+001 What are Cycles and the ICP Token_.mp4
+003 How to Claim Free Cycles from Dfinity.mp4
+004 How to Deploy to the ICP Network.mp4
+005 How to Convert ICP into Cycles_.mp4
+006 [Optional] How to Deploy a Static Website onto the ICP Blockchain for Hosting.mp4
+001 How to Configure a DFX Created Project to Use React.mp4
+002 Storing Data on a Canister.mp4
+
+Day 30
+Saturday 10 December 2022
+Todays study videos consists of approximately 51 minutes
+003 Retrieving Data from a Canister.mp4
+004 Deleting and Persistance.mp4
+001 Tokens and Coins_ What are they and how are they used_.mp4
+002 Download and Configure the Skeleton Project.mp4
+003 Using Motoko Hashmaps to Store Token Balances.mp4
+
+Day 31
+Monday 12 December 2022
+Todays study videos consists of approximately 58 minutes
+004 Showing the User's Token Balance on the Frontend.mp4
+005 Creating the Faucet Functionality Using the Shared Keyword.mp4
+006 Creating the Transfer Functionality.mp4
+007 Using the Transfer Functionality in the Faucet.mp4
+008 Persisting Non-Stable Types Using the Pre- and Postupgrade Methods.mp4
+
+Day 32
+Tuesday 13 December 2022
+Todays study videos consists of approximately 65 minutes
+010 Authenticating with the Internet Identity.mp4
+011 [Optional] Live Deployment to Test Internet Identity Authentication.mp4
+001 What You'll Build - A Website to Mint, Buy and Sell NFTs.mp4
+002 Minting NFTs.mp4
+003 Viewing the NFT on the Frontend.mp4
+
+Day 33
+Wednesday 14 December 2022
+Todays study videos consists of approximately 70 minutes
+004 Enabling the Minting Functionality on the Frontend.mp4
+005 Displaying Owned NFTs Using the React Router.mp4
+006 Listing NFTs for Sale.mp4
+
+Day 34
+Thursday 15 December 2022
+Todays study videos consists of approximately 54 minutes
+007 Styling the Listed NFTs.mp4
+008 Creating the _Discover_ Page.mp4
+009 Buying NFTs.mp4
+
+Day 35
+Friday 16 December 2022
+Todays study videos consists of approximately 64 minutes
+001 AAA 1 - How to Soak in Programming Concepts and more.mp4
+002 AAA 2 - Schedule for Learning to Code and more.mp4
+003 AAA 3 - How to Start Freelancing and more.mp4
+
+Day 36
+Friday 16 December 2022
+Todays study videos consists of approximately 0 minutes
+004 AAA 4 - The Live AMA.mp4

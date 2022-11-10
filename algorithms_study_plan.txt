@@ -1,0 +1,230 @@
+Your study plan consists of approximately 20 minutes for 22 days
+
+Day 1
+Wednesday 09 November 2022
+Todays study videos consists of approximately 23 minutes
+01. Introduction.mp4
+01. Data Structures and Algorithms.mp4
+02. Measuring Running time of Algorithms.mp4
+03. Asymptotic Analysis.mp4
+04. Big O Notation.mp4
+05. Finding Big O.mp4
+
+Day 2
+Thursday 10 November 2022
+Todays study videos consists of approximately 24 minutes
+06. Tight and Loose Upper Bounds.mp4
+08. Big O analysis of Algorithms.mp4
+09. Finding Time Comlexity.mp4
+10. Big O analysis of Algorithms Examples.mp4
+11. Worst case, Best case and Average Case Analysis.mp4
+12. Common Complexities.mp4
+13. Abstract Data Types.mp4
+
+Day 3
+Friday 11 November 2022
+Todays study videos consists of approximately 22 minutes
+02. Traversing and Searching a Single Linked List.mp4
+03. Finding pointers in a single linked list.mp4
+04. Insertion in a Single Linked List.mp4
+05. Insertion in a Single Linked List..contd.mp4
+06. Deletion in a Single Linked List.mp4
+
+Day 4
+Saturday 12 November 2022
+Todays study videos consists of approximately 21 minutes
+07. Reversing a Single Linked List.mp4
+09. Doubly linked list.mp4
+10. Insertion in a doubly linked List.mp4
+11. Deletion from doubly linked list.mp4
+12. Reversing a doubly linked list.mp4
+13. Circular linked list.mp4
+14. Insertion in a circular Linked List.mp4
+
+Day 5
+Sunday 13 November 2022
+Todays study videos consists of approximately 23 minutes
+15. Deletion in a circular linked list.mp4
+16. Concatenation.mp4
+17. Linked List with Header Node.mp4
+18. Sorted linked list.mp4
+19. Merging of sorted Linked lists.mp4
+
+Day 6
+Monday 14 November 2022
+Todays study videos consists of approximately 23 minutes
+20. Sorting a Linked list using Bubble Sort.mp4
+21. Sorting a Linked list using Merge Sort.mp4
+22. Finding and Removing a cycle in a Linked list.mp4
+02. Stack.mp4
+03. Array Implementation of Stack.mp4
+04. Linked List Implementation of Stack.mp4
+
+Day 7
+Tuesday 15 November 2022
+Todays study videos consists of approximately 20 minutes
+05. Queue.mp4
+06. Array Implementation of Queue.mp4
+07. Linked List implementation of Queue.mp4
+08. Queue through Circular Linked List.mp4
+09. Circular Queue.mp4
+
+Day 8
+Wednesday 16 November 2022
+Todays study videos consists of approximately 20 minutes
+10. Deque.mp4
+11. Priority Queue.mp4
+12. Checking validity of an expression containing nested parentheses.mp4
+13. Function calls.mp4
+14. Evaluating Arithmetc Expressions.mp4
+15. Polish Notations.mp4
+
+Day 9
+Thursday 17 November 2022
+Todays study videos consists of approximately 20 minutes
+16. Converting infix expression to postfix expression.mp4
+17. Evaluation of postfix expression.mp4
+02. Flow of control in Recursive functions.mp4
+03. Winding and unwinding phase.mp4
+04. Factorial.mp4
+05. Printing numbers from 1 to n.mp4
+06. Sum of digits of an integer.mp4
+07. Base conversion.mp4
+
+Day 10
+Friday 18 November 2022
+Todays study videos consists of approximately 22 minutes
+08. Finding nth power of a number.mp4
+09. Euclids Algorithm.mp4
+10. Fibonacci Series.mp4
+11. Tower of Hanoi.mp4
+12. Tail recursion.mp4
+13. Recursion vs. Iteration.mp4
+01. Intoduction to Trees.mp4
+
+Day 11
+Saturday 19 November 2022
+Todays study videos consists of approximately 23 minutes
+02. Binary Tree.mp4
+03. Strictly Binary Tree and Extended Binary Tree.mp4
+04. Full binary tree and Complete Binary Tree.mp4
+05. Array Representation of Binary trees.mp4
+06. Linked Representation of Binary Trees.mp4
+08. Traversal in Binary Tree.mp4
+09. Preorder Traversal.mp4
+
+Day 12
+Sunday 20 November 2022
+Todays study videos consists of approximately 23 minutes
+10. Inorder Traversal.mp4
+11. Postorder Traversal.mp4
+12. Level order traversal.mp4
+13. Finding  height of a Binary tree.mp4
+14. Binary Tree in C.mp4
+15. Constructing Binary tree from Traversals.mp4
+16. Cosntructing binary tree from inorder and preorder traversals.mp4
+17. Constructing binary tree from postorder and inorder traversals.mp4
+
+Day 13
+Monday 21 November 2022
+Todays study videos consists of approximately 29 minutes
+02. Traversal in Binary Search Tree.mp4
+03. Searching in a Binary Search Tree.mp4
+04. Nodes with Minimum and Maximum key.mp4
+05. Insertion in a Binary Search Tree.mp4
+06. Deletion in a Binary Search Tree.mp4
+
+Day 14
+Tuesday 22 November 2022
+Todays study videos consists of approximately 20 minutes
+02. Heap Representation.mp4
+03. Insertion in Heap.mp4
+04. Deletion.mp4
+05. Building a heap.mp4
+06. Heap Applications.mp4
+
+Day 15
+Wednesday 23 November 2022
+Todays study videos consists of approximately 21 minutes
+02. Sort Stability.mp4
+03. Selection Sort.mp4
+04. Selection Sort Example.mp4
+05. Selection Sort in C.mp4
+06. Analysis of Selection Sort.mp4
+07. Bubble Sort.mp4
+08. Bubble Sort Example.mp4
+09. Bubble Sort in C.mp4
+10. Improvement in Bubble Sort.mp4
+11. Analysis of Bubble Sort.mp4
+
+Day 16
+Thursday 24 November 2022
+Todays study videos consists of approximately 22 minutes
+13. Insertion Sort.mp4
+14. Insertion Sort Example.mp4
+15. Insertion Sort in C.mp4
+16. Analysis of Insertion sort.mp4
+17. Shell Sort.mp4
+18. Shell Sort Example.mp4
+19. Shell Sort in C.mp4
+20. Analysis of Shell Sort.mp4
+
+Day 17
+Friday 25 November 2022
+Todays study videos consists of approximately 24 minutes
+21. Merging two Sorted Arrays.mp4
+22. Recursive Merge Sort.mp4
+23. Recursive Merge Sort in C.mp4
+24. Analysis of Merge Sort.mp4
+25. Iterative Merge Sort.mp4
+26. Iterative Merge Sort in C.mp4
+27. Quick Sort.mp4
+28. Quick Sort in C.mp4
+
+Day 18
+Saturday 26 November 2022
+Todays study videos consists of approximately 25 minutes
+29. Analysis of Quick Sort.mp4
+30. Binary tree sort.mp4
+31. Binary Tree Sort in C.mp4
+32. Analysis of Binary Tree Sort.mp4
+33. Heap Sort.mp4
+34. Heap Sort  C implementation and Analysis.mp4
+35. Radix Sort.mp4
+36. Radix Sort  C implementation and Analysis.mp4
+
+Day 19
+Sunday 27 November 2022
+Todays study videos consists of approximately 23 minutes
+37. Address Calculation Sort.mp4
+38. Address Calculation Sort in C.mp4
+39. Analysis of Address Calculation Sort.mp4
+40. Sorting Records.mp4
+01. Linear Search.mp4
+02. Variations of Linear Search.mp4
+03. Binary Search.mp4
+
+Day 20
+Monday 28 November 2022
+Todays study videos consists of approximately 25 minutes
+04. Implementation of Binary Search.mp4
+05. Analysis of Binary Search.mp4
+01. Direct Addressing.mp4
+02. Hashing.mp4
+03. Collisions.mp4
+04. Hash Functions.mp4
+
+Day 21
+Tuesday 29 November 2022
+Todays study videos consists of approximately 22 minutes
+05. Open Addressing  Linear Probing.mp4
+06. Open Addressing  Quadratic Probing.mp4
+07. Open Addressing  Double Hashing.mp4
+08. Deletion in Open Addressed Tables.mp4
+
+Day 22
+Tuesday 29 November 2022
+Todays study videos consists of approximately 10 minutes
+09. Implementation of Open Addressing.mp4
+10. Separate Chaining.mp4
+11. Implementation of Separate Chaining.mp4

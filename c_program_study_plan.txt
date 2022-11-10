@@ -1,0 +1,167 @@
+Your study plan consists of approximately 56 minutes for 16 days
+
+Day 1
+Thursday 10 November 2022
+Todays study videos consists of approximately 61 minutes
+01. Overview.mp4
+02. Basic Data Types.mp4
+03. Enums and Chars.mp4
+04. Format Specifiers.mp4
+
+Day 2
+Friday 11 November 2022
+Todays study videos consists of approximately 70 minutes
+05. Command line arguments.mp4
+06. (Challenge) Print the Area of a Rectangle.mp4
+07. (Demonstration) Print the Area of a Rectangle.mp4
+08. (Challenge) Create and use an enum type.mp4
+09. (Demonstration) Create and use an enum type.mp4
+02. Basic Operators.mp4
+03. Bitwise Operators.mp4
+
+Day 3
+Saturday 12 November 2022
+Todays study videos consists of approximately 70 minutes
+04. The Cast and sizeof Operators.mp4
+05. Operator Precedence.mp4
+06. (Challenge) Convert minutes to years and days.mp4
+07. (Demonstration) Convert minutes to years and days.mp4
+08. (Challenge) Print the byte size of the basic data types.mp4
+09. (Demonstration) Print the byte size of the basic data types.mp4
+02. If Statements.mp4
+03. Switch Statement.mp4
+
+Day 4
+Sunday 13 November 2022
+Todays study videos consists of approximately 60 minutes
+04. (Challenge) Determine amount of Pay.mp4
+05. (Demonstration) Determine the amount of weekly Pay.mp4
+06. For Loop.mp4
+07. While and Do-While.mp4
+08. Nested Loops and loop Control - Break and Continue.mp4
+
+Day 5
+Monday 14 November 2022
+Todays study videos consists of approximately 59 minutes
+09. (Challenge) Guess the Number.mp4
+10. (Demonstration) Guess the Number.mp4
+01. Creating and using Arrays.mp4
+02. Initialization.mp4
+03. Multidimensional Arrays.mp4
+
+Day 6
+Tuesday 15 November 2022
+Todays study videos consists of approximately 67 minutes
+04. Variable Length Arrays.mp4
+05. (Challenge) Generate Prime Numbers.mp4
+06. (Demonstration) Generate Prime Numbers.mp4
+07. (Challenge) Create a simple Weather program.mp4
+08. (Demonstration) Create a simple Weather Program.mp4
+01. Basics.mp4
+02. Defining Functions.mp4
+
+Day 7
+Wednesday 16 November 2022
+Todays study videos consists of approximately 56 minutes
+03. Arguments and Parameters.mp4
+04. Returning data from functions.mp4
+05. Local and Global Variables.mp4
+06. (Challenge) Write some functions!.mp4
+07. (Demonstration) Write some functions!.mp4
+08. (Challenge) Create a Tic Tac Toe Game.mp4
+
+Day 8
+Thursday 17 November 2022
+Todays study videos consists of approximately 62 minutes
+09. (Demonstration) Create a Tic Tac Toe Game.mp4
+02. Defining a String.mp4
+03. Constant Strings.mp4
+04. Common String Functions.mp4
+05. Searching, Tokenizing, and Analyzing Strings.mp4
+
+Day 9
+Friday 18 November 2022
+Todays study videos consists of approximately 56 minutes
+06. Converting Strings.mp4
+07. (Challenge) Understanding char arrays.mp4
+08. (Demonstration) Understanding char arrays.mp4
+09. (Challenge) Utilizing common string functions.mp4
+10. (Demonstration) Utilizing common string functions.mp4
+02. Understanding the call stack.mp4
+03. Code Blocks Debugger.mp4
+
+Day 10
+Saturday 19 November 2022
+Todays study videos consists of approximately 60 minutes
+04. Common C Mistakes.mp4
+05. Understanding Compiler Errors.mp4
+02. Defining Pointers.mp4
+03. Accessing Pointers.mp4
+04. Using Pointers.mp4
+05. Pointers and const.mp4
+
+Day 11
+Sunday 20 November 2022
+Todays study videos consists of approximately 56 minutes
+06. void pointers.mp4
+07. Pointers and Arrays.mp4
+08. Pointer Arithmetic.mp4
+09. Pointers and Arrays Example.mp4
+10. Pointers and Strings.mp4
+11. Pass by reference.mp4
+
+Day 12
+Monday 21 November 2022
+Todays study videos consists of approximately 64 minutes
+12. Dynamic Memory Allocation.mp4
+13. malloc, calloc, and realloc.mp4
+14. (Challenge) Pointer Basics.mp4
+15. (Demonstration) Pointer Basics.mp4
+16. (Challenge) Using Pointers as parameters.mp4
+17. (Demonstration) Using Pointers as parameters.mp4
+18. (Challenge) Counting characters in a String.mp4
+19. (Demonstration) Counting characters in a string.mp4
+20. (Challenge) Using Dynamic Memory.mp4
+21. (Demonstration) Using Dynamic Memory.mp4
+
+Day 13
+Tuesday 22 November 2022
+Todays study videos consists of approximately 64 minutes
+01. Creating and Using Structures.mp4
+02. Structures and Arrays.mp4
+03. Nested Structures.mp4
+04. Structures and Pointers.mp4
+05. Structures and Functions.mp4
+06. (Challenge) Declaring and Initializing a structure.mp4
+07. (Demonstration) Declaring and Initializing a structure.mp4
+
+Day 14
+Wednesday 23 November 2022
+Todays study videos consists of approximately 66 minutes
+08. (Challenge) Structure Pointers and Functions.mp4
+09. (Demonstration) Structure Pointers and Functions.mp4
+02. Accessing Files.mp4
+03. Reading for a file.mp4
+04. Writing to a file.mp4
+05. Finding your position in a File.mp4
+
+Day 15
+Thursday 24 November 2022
+Todays study videos consists of approximately 58 minutes
+06. (Challenge) Find the number of lines in a file.mp4
+07. (Demonstration) Find the number of lines in a file.mp4
+08. (Challenge) Convert characters in a file to uppercase.mp4
+09. (Demonstration) Convert characters in a file to uppercase.mp4
+10. (Challenge) Print the contents of a file in reverse order.mp4
+11. (Demonstration) Print the contents of a file in reverse order.mp4
+01. Standard Header Files.mp4
+02. Various Functions.mp4
+03. Math Functions.mp4
+04. Utility Functions.mp4
+
+Day 16
+Thursday 24 November 2022
+Todays study videos consists of approximately 14 minutes
+01. Further Topics of Study.mp4
+02. Course Summary.mp4
+01. Bonus - Please Watch!.mp4
